@@ -1,2 +1,2 @@
 # hello-world
-hey, are you also a neek 
+hey, dont be a neek, coding is fun
